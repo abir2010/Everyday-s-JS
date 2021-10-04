@@ -1,7 +1,7 @@
 # Everyday's JS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Live site link here [Click]().
+Live site link here [Click](https://everyday-js.netlify.app/).
 
 ## About my project
 
