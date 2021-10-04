@@ -20,7 +20,7 @@
     "instructor": "Jhankar Mahbub",
     "details": "This is the best selling online course on the javascript fundamentals.Your foundation on javascript is going to build from here.And the best thing is that it is our Jhankar Mahbub who is on this course as course instructor, What else you can wish for?",
     "price": 4500,
-    "rating": 4.9,
+    "rating": 4.8,
     "image": "https://image.freepik.com/free-vector/app-development-illustration_52683-47931.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "instructor": "Anisul Islam",
     "details": "This is the best selling online course on the javascript language in depth.Your foundation on javascript is going to built from here.And the best thing is that it is our Anisul Islam sir who is on this course as course instructor, What else you can wish for?",
     "price": 7000,
-    "rating": 4.7,
+    "rating": 4.5,
     "image": "https://image.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept_335657-2412.jpg"
   },
   {
@@ -44,15 +44,15 @@
     "instructor": "Sumit Saha",
     "details": "This is the best selling online course on the advanced javascript.Your foundation on javascript is going to built from here.And the best thing is that it is our Sumit Saha who is on this course as course instructor, What else you can wish for?",
     "price": 8000,
-    "rating": 4.8,
+    "rating": 4.2,
     "image": "https://image.freepik.com/free-vector/software-developers-working-script-coding-engineer-character-programming-php-python-javascript-other-languages_90220-243.jpg"
   },
   {
     "title": "React JS",
     "instructor": "Jhankar Mahbub",
     "details": "This is the best selling online course on the React library.Your foundation on React js is going to built from here.And the best thing is that it is our Jhankar Mahbub who is on this course as course instructor, What else you can wish for?",
-    "price": 5000,
-    "rating": 4.9,
+    "price": 5500,
+    "rating": 4.3,
     "image": "https://image.freepik.com/free-vector/programmer-working-with-html_52683-24171.jpg"
   },
   {
@@ -60,15 +60,15 @@
     "instructor": "Shakil",
     "details": "This is the best selling online course on the Angular js.Your foundation on Angular framework is going to built from here.And the best thing is that it is our Shakil bhai who is on this course as course instructor, What else you can wish for?",
     "price": 3500,
-    "rating": 4.6,
+    "rating": 4.1,
     "image": "https://image.freepik.com/free-vector/business-people-working-laptop-development_1262-18907.jpg"
   },
   {
     "title": "Vue JS",
     "instructor": "Jhankar Mahbub",
     "details": "This is the best selling online course on theVue js.Your full foundation on vue is going to built from here.And the best thing is that it is our Jhankar Mahbub who is on this course as course instructor, What else you can wish for?",
-    "price": 4000,
-    "rating": 4.8,
+    "price": 4200,
+    "rating": 4.4,
     "image": "https://image.freepik.com/free-vector/pair-programming-concept-illustration_114360-3941.jpg"
   }
 ]
