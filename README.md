@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Everyday's JS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live site link here [Click]().
+
+## About my project
+
+1. This is a online platform for everyone to learn the most popular language Javascript.
+2. This is multiple page website project (eg: home page, about page, service page, login page)
+3. This whole website is created by React and the main focus was to mastering React Router.
 
 ## Available Scripts
 
