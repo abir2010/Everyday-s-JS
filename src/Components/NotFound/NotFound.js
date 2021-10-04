@@ -12,7 +12,7 @@ const NotFound = () => {
       <div className="flex justify-center m-24">
         <img src={image} alt="" width="500px" />
       </div>
-      <div>
+      <div className="mb-96">
         <button
           onClick={handleHomeBtn}
           type="button"
